@@ -1,8 +1,8 @@
 # Programming Practices
 
-My programming practices and exercise solutions from several challenge sites.
+My programming practices and exercise solutions from several challenge sites, courses, tutorials, books and more.
 
-## Current Challenge Sites
+## Challenge Sites
 
 - [Hackerrank](https://www.hackerrank.com)
 
